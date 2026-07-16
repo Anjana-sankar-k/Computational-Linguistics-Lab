@@ -1,0 +1,16 @@
+Humbert Humbert went to the market to buy a book.
+The bug was definitely not the the big bug he wanted.
+This line has a repeated word at the end end.
+
+42 blocks down the road, they found a hidden cabin.
+7 target tracking metrics were completed by the team.
+2026 is the current year (this line shouldn't match because it ends with punctuation!)
+This line starts with words but ends with 100.
+
+They found a deep grotto near where the wild raven nests.
+The raven flew swiftly into the dark grotto to hide.
+However, grottos and ravenous birds absolutely do not count.
+
+Hello world! This is a test sentence. Is it working? Yes, it is.
+"What about dialogue?" asked John.
+...Or sentences that start with ellipses?
